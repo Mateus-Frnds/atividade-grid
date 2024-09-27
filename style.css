@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.capa {
+    display: block;
+    margin: 20px auto;
+}
+
+.conteudo {
+    max-width: 890px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
