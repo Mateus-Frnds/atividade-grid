@@ -1,3 +1,7 @@
+body {
+    background-image:url(https://raw.githubusercontent.com/Mateus-Frnds/atividade-grid/refs/heads/master/img/fundo.png);
+}
+
 header {
     display: flex;
     justify-content: space-between;
